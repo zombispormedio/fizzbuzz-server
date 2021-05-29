@@ -4,6 +4,7 @@ metadata:
   name: fizzbuzz-server
   annotations:
     github.com/project-slug: zombispormedio/fizzbuzz-server
+    circleci.com/project-slug: github/zombispormedio/fizzbuzz-server
 spec:
   type: service
   lifecycle: unknown
