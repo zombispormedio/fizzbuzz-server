@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: fizzbuzz-server
+  annotations:
+    github.com/project-slug: zombispormedio/fizzbuzz-server
+spec:
+  type: other
+  lifecycle: unknown
+  owner: boxoffice
