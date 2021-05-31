@@ -5,6 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: zombispormedio/fizzbuzz-server
     circleci.com/project-slug: github/zombispormedio/fizzbuzz-server
+    argocd/app-name: dotnetexampleservice
 spec:
   type: service
   lifecycle: unknown
